@@ -1,0 +1,23 @@
+.work__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    min-height: 32rem;
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+}
+.work__container > h2{
+    font-size: 4rem;
+    margin-bottom: 5rem;
+}
+.work__cards{
+    max-width: 78rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    gap: 5rem;
+}

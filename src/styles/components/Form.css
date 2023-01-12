@@ -1,0 +1,33 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    width: 100%;
+    max-width: 40rem;
+    height: 100%;
+}
+.btn-form{
+    transition: var(--transition);
+    max-width: 6rem;
+    cursor: pointer;
+    background: var(--color-dark);
+    font-size: 14px;
+    padding-bottom: 7px;
+}
+
+input, textarea {
+    font-family: 'Sarabun', sans-serif;
+    width: 100%;
+    padding: 1.5rem;
+    background-color: transparent;
+    border-bottom: 3px solid var(--color-primary);
+    resize: none;
+    color: var(--color-light);
+    font-size: 14px;
+}
+
+@media (max-width: 600px){
+    .btn-form{
+    margin: auto;
+    }
+}

@@ -1,0 +1,14 @@
+.linksSocials{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1.5rem;
+}
+.linksSocials > a {
+    color: var(--color-light);
+    transition: var(--transition);
+}
+.linksSocials > a:hover {
+    color: var(--color-primary);
+}
