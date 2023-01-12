@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.9fc0905d.css",
+    "main.js": "/Portfolio/static/js/main.ccc01aa6.js",
+    "static/media/Kasa_Mobile.webp": "/Portfolio/static/media/Kasa_Mobile.4c0414c38b24b3750ef5.webp",
+    "static/media/Panthere_Mobile.webp": "/Portfolio/static/media/Panthere_Mobile.308ffc2599c4c816b35b.webp",
+    "static/media/Booki_Mobile.webp": "/Portfolio/static/media/Booki_Mobile.0f6a71cdd42a25d45451.webp",
+    "static/media/Ohmyfood_Mobile.webp": "/Portfolio/static/media/Ohmyfood_Mobile.883e95b17c5d82403c7e.webp",
+    "static/media/Kanap_Mobile.webp": "/Portfolio/static/media/Kanap_Mobile.98fce6d65d2655e7f71b.webp",
+    "static/media/Kasa_Desktop_2.webp": "/Portfolio/static/media/Kasa_Desktop_2.f46584c5dac2e60c40e8.webp",
+    "static/media/Booki_Desktop_2.webp": "/Portfolio/static/media/Booki_Desktop_2.cbb9759090a29aeabfba.webp",
+    "static/media/Kanap_Desktop.webp": "/Portfolio/static/media/Kanap_Desktop.22ddf8f7df0120f93183.webp",
+    "static/media/Booki_Desktop.webp": "/Portfolio/static/media/Booki_Desktop.2cc1b39ce43b61573e0a.webp",
+    "static/media/Panthere_Desktop_2.webp": "/Portfolio/static/media/Panthere_Desktop_2.91c5ca9f6b8056b75f29.webp",
+    "static/media/Kanap_Desktop_2.webp": "/Portfolio/static/media/Kanap_Desktop_2.201e082d9fa7dc39721d.webp",
+    "static/media/Panthere_Desktop.webp": "/Portfolio/static/media/Panthere_Desktop.f8a85e8ba41cabc4931c.webp",
+    "static/media/Kasa_Desktop.webp": "/Portfolio/static/media/Kasa_Desktop.389456a2a45f71b9e9a3.webp",
+    "static/media/Ohmyfood_Desktop.webp": "/Portfolio/static/media/Ohmyfood_Desktop.4edb433c5c48281c23c1.webp",
+    "static/media/CV-Corentin Richard.pdf": "/Portfolio/static/media/CV-Corentin Richard.39a402e53a013ad6c5cc.pdf",
+    "static/media/Ohmyfood_Desktop_2.webp": "/Portfolio/static/media/Ohmyfood_Desktop_2.180884276ba8748121c0.webp",
+    "index.html": "/Portfolio/index.html",
+    "main.9fc0905d.css.map": "/Portfolio/static/css/main.9fc0905d.css.map",
+    "main.ccc01aa6.js.map": "/Portfolio/static/js/main.ccc01aa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fc0905d.css",
+    "static/js/main.ccc01aa6.js"
+  ]
+}
